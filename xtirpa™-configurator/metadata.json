@@ -1,0 +1,5 @@
+{
+  "name": "Xtirpa™ Configurator",
+  "description": "A web-based 3D assembly tool connected to a shared Dropbox repository. Select components, assemble systems, measure parts, and generate renderings.",
+  "requestFramePermissions": []
+}
